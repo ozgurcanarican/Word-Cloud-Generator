@@ -46,7 +46,6 @@ while True:
     
     if chosen_color == "1":
         chosen_color = "black"
-        print(chosen_color)
         break
     elif chosen_color == "2":
         chosen_color = "white"
